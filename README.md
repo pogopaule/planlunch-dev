@@ -1,4 +1,4 @@
 Install
 -------
 
-curl -L http://www.github.com/pogopaule/planlunch-dev/blob/master/install.sh | sh
+curl -L https://raw.githubusercontent.com/pogopaule/planlunch-dev/master/install.sh | sh
