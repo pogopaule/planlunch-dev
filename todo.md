@@ -1,0 +1,7 @@
+- calendar
+- chat/messages
+- delivery services
+- lottery
+- gamification
+- sort by popularity
+- onboarding
