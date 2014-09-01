@@ -1,3 +1,5 @@
+- divshot
+- code cleanup
 - calendar
 - chat/messages
 - delivery services
