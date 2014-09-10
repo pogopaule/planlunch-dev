@@ -1,3 +1,5 @@
 #! /bin/bash
 
-echo TODO
+cd ../client
+ember build --environment production
+divshot push production
