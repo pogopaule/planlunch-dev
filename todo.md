@@ -1,9 +1,7 @@
-- divshot
-- code cleanup
 - calendar
 - chat/messages
-- delivery services
 - lottery
 - gamification
 - sort by popularity
 - onboarding
+- delivery services
